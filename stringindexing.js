@@ -1,5 +1,5 @@
 //string indexing
-let firstName = "Piyush";
+//let firstName = "Piyush";
 
 //  P  i  y  u  s  h
 //  0  1  2  3  4  5

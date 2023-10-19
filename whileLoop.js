@@ -23,3 +23,23 @@ while(i>=0){ //in() mention till which condition go
 }
 console.log("continue executing code if condition given for start is false")
 */
+
+
+//while loop example for adding number 1-10
+/*
+let total = 0;
+let i = 0;
+while(i<=10){   
+total = total+i;
+i++;
+
+}
+console.log(total);
+*/
+
+//with formula
+/*
+let num = 15;
+let total = (num*(num+1))/2;
+console.log(total);
+*/

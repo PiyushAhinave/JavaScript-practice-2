@@ -5,8 +5,8 @@
 
 // how to create objects
 
-const person = {name:"piyush",age:20,hobbies:["guitar","music","swimminng"]}
-console.log(person)
+//const person = {name:"piyush",age:20,hobbies:["guitar","music","swimminng"]}
+//console.log(person)
 
 
 // how to access data from objects
@@ -17,7 +17,7 @@ console.log(person)
 
 //or
 //object_name["key_name"]
-console.log(person["name"]);
+//console.log(person["name"]);
 
 
 // how to add key value pair to objects
